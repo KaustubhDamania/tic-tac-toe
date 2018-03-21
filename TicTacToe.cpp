@@ -50,7 +50,7 @@ public:
       displayMatrix();
       if(checkDiagonal(matrix) || checkVertical(matrix) || checkHorizontal(matrix))
       {
-        printf("\nPlayer %d won! Press any key to exit!\n", 1 + ( player % 2 ));
+        printf("\nPlayer %d won! Press any key to exit!\n", 1+(player % 2));
         break;
       }
       if(numberOfTurns==9)
