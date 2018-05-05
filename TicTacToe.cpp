@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
+#include <check.cpp>
 class TicTacToe{
 private:
   char matrix[3][3];
