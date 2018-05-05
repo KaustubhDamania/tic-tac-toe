@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
+#include <cstdio>
 #include "check.cpp"
 class TicTacToe{
 private:
