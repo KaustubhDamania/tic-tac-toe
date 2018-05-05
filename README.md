@@ -3,4 +3,4 @@ This is a Tic-Tac-Toe CLI game made using C++. ~~Right now, it supports only 2 p
 ## Installation
 To play the game, simply follow these steps:
 * ``` git clone -b <name-of-branch> https://github.com/KaustubhDamania/tic-tac-toe.git ```
-* Then run the main.cpp file and play it on Terminal!
+* Then run the main.cpp file and play it on Terminal! :fire:
